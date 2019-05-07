@@ -75,10 +75,10 @@ class Footer extends React.Component {
             <Flex justifyContent="center" flexDirection="column">
               <Box>
                 <FooterText>
-                  <h4>
+                  {/* <h4>
                     Made with ❤️ using{" "}
                     <a href="https://www.gatsbyjs.org/">GatsbyJS</a>
-                  </h4>
+                  </h4> */}
                 </FooterText>
               </Box>
               <CenteredButtonBox>

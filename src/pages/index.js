@@ -293,7 +293,7 @@ export default props => {
         </Item> */}
       </Section>
       <a id="honoursAndAwards">Honours & Awards</a>
-      <Section center>
+      {/* <Section center>
         <h4>HONORS & AWARDS</h4>
         <span>A list of honors and awards I have recieved for my work.</span>
         <Item>
@@ -311,7 +311,7 @@ export default props => {
           <h6>ACCESS ACCENTURE ACHIEVEMENT AWARD</h6>
           <p>Accenture</p>
         </Item>
-      </Section>
+      </Section> */}
     </Content>
   );
   return (

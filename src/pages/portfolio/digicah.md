@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Digicah"
 date: "2018-01-08"
 tags: ["website", "javascript", "css", "html"]
@@ -13,4 +13,4 @@ It has been released in alpha and can be downloaded from the dedicated Digicah w
 ![](./images/digicahC.PNG "Digicah website client preview page")
 
 <!--- reference links --->
-[here]: <https://web.archive.org/web/20160307075031/http://digicah.com>
+[here]: <https://web.archive.org/web/20160307075031/http://digicah.com> -->

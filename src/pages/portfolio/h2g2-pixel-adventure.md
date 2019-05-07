@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "H2G2: Pixel Adventure"
 date: "2018-01-08"
 tags: ["unity", "award winning"]
@@ -11,4 +11,4 @@ This game was created with [Sam Boles](https://github.com/Xaeonn) to compete in 
 
 ![](./images/h2g2A.PNG "h2g2 start screen")
 ![](./images/h2g2B.PNG "h2g2 first text")
-![](./images/h2g2c.png "h2g2 launch poster")
+![](./images/h2g2c.png "h2g2 launch poster") -->
