@@ -283,7 +283,7 @@ export default props => {
         <span>Education I've recieved.</span>
         <Item>
           <span>2019-Current</span>
-          <h6>Pending Badge</h6>
+          <h6>Web Development Curriculum</h6>
           <p>Devmountain</p>
         </Item>
         {/* <Item>
@@ -293,10 +293,10 @@ export default props => {
         </Item> */}
       </Section>
       <a id="honoursAndAwards">Honours & Awards</a>
-      {/* <Section center>
+      <Section center>
         <h4>HONORS & AWARDS</h4>
         <span>A list of honors and awards I have recieved for my work.</span>
-        <Item>
+        {/* <Item>
           <span>2016</span>
           <h6>BEST PROJECT (IN THE DIT PROJECT FAIR)</h6>
           <p>SAP</p>
@@ -305,13 +305,13 @@ export default props => {
           <span>2014</span>
           <h6>GAMES STUDIO IRELAND CHALLENGE: BEST IN ORIGINAL STORY</h6>
           <p>Games Fleadh</p>
-        </Item>
+        </Item> */}
         <Item>
-          <span>2010</span>
-          <h6>ACCESS ACCENTURE ACHIEVEMENT AWARD</h6>
-          <p>Accenture</p>
+          <span>2019</span>
+          <h6>Pending Badge</h6>
+          <p>Devmountain</p>
         </Item>
-      </Section> */}
+      </Section>
     </Content>
   );
   return (
