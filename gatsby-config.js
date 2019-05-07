@@ -71,8 +71,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "Darren Britton Portfolio",
-        short_name: "Darren Britton",
+        name: "Thomas Yohannes Portfolio",
+        short_name: "Thomas Yohannes",
         start_url: "/",
         background_color: "#292929",
         theme_color: "#405375",
