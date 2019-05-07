@@ -60,7 +60,7 @@ class Footer extends React.Component {
                     },
                     {
                       name: "github-alt",
-                      href: "https://github.com/darrenbritton"
+                      href: "https://github.com/ThomYohan"
                     },
                     {
                       name: "linkedin",

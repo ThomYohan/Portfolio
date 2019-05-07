@@ -215,14 +215,17 @@ export default props => {
         <Flex alignItems="center" flexDirection="column">
           <Box px={2} width={[1, 1 / 2]}>
             <p>
-              Currently working as a software engineer at{" "}
+              {/* Currently working as a software engineer at{" "}
               <a href="https://shutterstock.com">Shutterstock</a> focusing on
               the editorial content platform. As far as my work goes I've
               probably worn every hat on the rack, most notible being Web
               Developer, Software Engineer and Photographer. Don’t let my clean
               lines and weakness for Swiss type fool you; My work has been
               pretty diverse and enjoyable. For more information about me follow
-              one of my social media links above or at the bottom of the page.
+              one of my social media links above or at the bottom of the page. */}
+              Currently attending Devmountain, focusing on Web Development. As far as my work is concerned
+              I've become well versed in full crud yeah. Other hobbies include traveling, soccer, and spending time with
+              family. Goals include broadening my experience along with visiting every continent.
             </p>
           </Box>
           <Box px={2} width={180}>
@@ -244,11 +247,11 @@ export default props => {
         <h4>Experience</h4>
         <span>Where I've worked.</span>
         <Item>
-          <span>MAY 2018 - CURRENT</span>
-          <h6>SHUTTERSTOCK</h6>
-          <p>Software Engineer</p>
+          <span>FEB 2019 - CURRENT</span>
+          <h6>Devmountain</h6>
+          <p>Web Developer</p>
         </Item>
-        <Item>
+        {/* <Item>
           <span>JUNE 2016 - APRIL 2018</span>
           <h6>SAP IRELAND</h6>
           <p>Full Stack Developer</p>
@@ -262,7 +265,7 @@ export default props => {
           <span>JAN 2014 - JULY 2014</span>
           <h6>ST DECLAN'S COLLEGE</h6>
           <p>Full Stack Developer</p>
-        </Item>
+        </Item> */}
       </Section>
       <a id="tech">Tech</a>
       <Section center>
@@ -279,15 +282,15 @@ export default props => {
         <h4>EDUCATION</h4>
         <span>Education I've recieved.</span>
         <Item>
-          <span>2012 - 2016</span>
-          <h6>BSC COMPUTER SCIENCE (1st Class Honours)</h6>
-          <p>Dublin Institute of Technology</p>
+          <span>2019-Current</span>
+          <h6>Pending Badge</h6>
+          <p>Devmountain</p>
         </Item>
-        <Item>
+        {/* <Item>
           <span>2006 - 2012</span>
           <h6>SECONDARY EDUCATION</h6>
           <p>Saint Declan's College</p>
-        </Item>
+        </Item> */}
       </Section>
       <a id="honoursAndAwards">Honours & Awards</a>
       <Section center>
