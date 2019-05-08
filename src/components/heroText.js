@@ -49,9 +49,9 @@ class HeroText extends React.Component {
       <StyledTypist cursor={{ show: false }} {...this.props}>
         <strong>I Make</strong> Websites
         <Typist.Backspace count={9} delay={300} />
-        <span> Web Sites</span>
+        <span> Adventures</span>
         <Typist.Backspace count={9} delay={300} />
-        <span> Video Games</span>
+        <span> Memories</span>
         <Typist.Backspace count={12} delay={300} />
         <span> Poor Life Decisions</span>
         <Typist.Delay ms={100} />
@@ -61,7 +61,7 @@ class HeroText extends React.Component {
         <Typist.Delay ms={300} />
         <span>.</span>
         <Typist.Backspace count={29} delay={10} />
-        <strong>But Mostly Just</strong> Cool Web Stuff
+        <strong>But Mostly Just</strong> Cool Websites
       </StyledTypist>
     );
   }

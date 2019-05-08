@@ -54,17 +54,17 @@ class Footer extends React.Component {
               <Box>
                 <SocialIconsStyled
                   icons={[
-                    {
-                      name: "twitter",
-                      href: "https://twitter.com/darren_britton"
-                    },
+                    // {
+                    //   name: "twitter",
+                    //   href: "https://twitter.com/darren_britton"
+                    // },
                     {
                       name: "github-alt",
                       href: "https://github.com/ThomYohan"
                     },
                     {
                       name: "linkedin",
-                      href: "https://ie.linkedin.com/in/darrenbritton"
+                      href: "https://www.linkedin.com/in/thomas-yohannes-a72238185/"
                     }
                   ]}
                 />

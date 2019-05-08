@@ -224,7 +224,7 @@ export default props => {
               pretty diverse and enjoyable. For more information about me follow
               one of my social media links above or at the bottom of the page. */}
               Currently attending Devmountain, focusing on Web Development. As far as my work is concerned
-              I've become well versed in full crud yeah. Other hobbies include traveling, soccer, and spending time with
+              I've become well versed in building full crud web applications. With a preference for front end development. Other hobbies include traveling, soccer, and spending time with
               family. Goals include broadening my experience along with visiting every continent.
             </p>
           </Box>
