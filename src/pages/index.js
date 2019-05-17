@@ -195,17 +195,17 @@ export default props => {
           bottom: 16
         }}
         icons={[
-          {
-            name: "twitter",
-            href: "https://twitter.com/darren_britton"
-          },
+          // {
+          //   name: "twitter",
+          //   href: "https://twitter.com/darren_britton"
+          // },
           {
             name: "github-alt",
-            href: "https://github.com/darrenbritton"
+            href: "https://github.com/ThomYohan"
           },
           {
             name: "linkedin",
-            href: "https://ie.linkedin.com/in/darrenbritton"
+            href: "https://www.linkedin.com/in/thomasgyohannes/"
           }
         ]}
       />
