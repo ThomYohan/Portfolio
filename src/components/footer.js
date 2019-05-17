@@ -64,7 +64,7 @@ class Footer extends React.Component {
                     },
                     {
                       name: "linkedin",
-                      href: "https://www.linkedin.com/in/thomas-yohannes-a72238185/"
+                      href: "https://www.linkedin.com/in/thomasgyohannes/"
                     }
                   ]}
                 />

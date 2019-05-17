@@ -230,11 +230,11 @@ export default props => {
           </Box>
           <Box px={2} width={180}>
             <Img
-              sizes={
-                props.data.allFile
-                  ? props.data.allFile.edges[0].node.childImageSharp.sizes
-                  : {}
-              }
+              // sizes={
+              //   props.data.allFile
+              //     ? props.data.allFile.edges[0].node.childImageSharp.sizes
+              //     : {}
+              // }
             />
           </Box>
         </Flex>
