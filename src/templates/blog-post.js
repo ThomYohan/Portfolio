@@ -70,9 +70,9 @@ const TimeToRead = styled.h5`
 export default ({ data, location }) => {
   const post = data.markdownRemark;
   const crumbs = [
-    { name: "home", link: "/" },
-    { name: "portfolio", link: "/#portfolio" },
-    { name: post.frontmatter.title, link: location.pathname }
+    { name: "Back", link: "/" },
+    // { name: "portfolio", link: "/#portfolio" },
+    // { name: post.frontmatter.title, link: location.pathname }
   ];
   const tags = post.frontmatter.tags.map(function(tag) {
     return <li key={tag}>{tag}</li>;

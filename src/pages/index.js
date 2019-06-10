@@ -224,18 +224,18 @@ export default props => {
               pretty diverse and enjoyable. For more information about me follow
               one of my social media links above or at the bottom of the page. */}
               Currently attending Devmountain, focusing on Web Development. As far as my work is concerned
-              I've become well versed in building full crud web applications. With a preference for front end development. Other hobbies include traveling, soccer, and spending time with
-              family. Goals include broadening my experience along with visiting every continent.
+              I've become well versed in building full crud web applications, with a preference for front end development. Other hobbies include traveling, soccer, and spending time with
+              family. Goals include broadening my experience along with visiting every continent(only 3 left).
             </p>
           </Box>
           <Box px={2} width={180}>
-            <Img
-              // sizes={
-              //   props.data.allFile
-              //     ? props.data.allFile.edges[0].node.childImageSharp.sizes
-              //     : {}
-              // }
-            />
+            {/* <Img
+              sizes={
+                props.data.allFile
+                  ? props.data.allFile.edges[0].node.childImageSharp.sizes
+                  : {}
+              }
+            /> */}
           </Box>
         </Flex>
       </Section>
@@ -243,7 +243,7 @@ export default props => {
       <a id="portfolio">Portfolio</a>
       <Portfolio items={props.data.allMarkdownRemark.edges} />
       <a id="experience">Experience</a>
-      <Section center dark>
+      {/* <Section center dark>
         <h4>Experience</h4>
         <span>Where I've worked.</span>
         <Item>
@@ -251,7 +251,7 @@ export default props => {
           <h6>Devmountain</h6>
           <p>Web Developer</p>
         </Item>
-        {/* <Item>
+        <Item>
           <span>JUNE 2016 - APRIL 2018</span>
           <h6>SAP IRELAND</h6>
           <p>Full Stack Developer</p>
@@ -265,8 +265,8 @@ export default props => {
           <span>JAN 2014 - JULY 2014</span>
           <h6>ST DECLAN'S COLLEGE</h6>
           <p>Full Stack Developer</p>
-        </Item> */}
-      </Section>
+        </Item>
+      </Section> */}
       <a id="tech">Tech</a>
       <Section center>
         <h4>Tech</h4>
