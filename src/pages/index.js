@@ -223,8 +223,7 @@ export default props => {
               lines and weakness for Swiss type fool you; My work has been
               pretty diverse and enjoyable. For more information about me follow
               one of my social media links above or at the bottom of the page. */}
-              Currently attending Devmountain, focusing on Web Development. As far as my work is concerned
-              I've become well versed in building full crud web applications, with a preference for front end development. Other hobbies include traveling, soccer, and spending time with
+              Currently a Web developer focusing on the front end, I've become well versed in building full crud web application. Other hobbies include traveling, soccer, and spending time with
               family. Goals include broadening my experience along with visiting every continent(only 3 left).
             </p>
           </Box>
