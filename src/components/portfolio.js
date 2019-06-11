@@ -158,7 +158,7 @@ class Portfolio extends React.Component {
       </Box>
     ));
     if (!this.state.viewAll) {
-      items.splice(4);
+      items.splice(0);
     }
     return (
       <Flex justifyContent="center" px={1} flexWrap="wrap">
