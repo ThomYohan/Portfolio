@@ -1,14 +1,27 @@
-<!-- ---
-title: "H2G2: Pixel Adventure"
-date: "2018-01-08"
-tags: ["unity", "award winning"]
+---
+title: "Shiftradr"
+date: "2019-05-10"
+tags: ["Reactjs", "React Hooks", "Nodejs", "Javascript", "HTML", "CSS", "Nodemailer", "Sockets"]
 image: './images/h2g2.jpg'
 ---
 
-This game was created with [Sam Boles](https://github.com/Xaeonn) to compete in the national Games Fleadh event. It is a text Adventure with pixel art, some minigamesm, and story created by myself which won the Game Studios Ireland: Best in Original Story award.
+[Shiftradr]Full CRUD web application that allows employees to post and trade liability of work shifts in a streamlined fashion.
 
-[Play in Browser](/H2G2/WebBuild.html)
+-Posts are displayed in a social media-like manner.
 
-![](./images/h2g2A.PNG "h2g2 start screen")
-![](./images/h2g2B.PNG "h2g2 first text")
-![](./images/h2g2c.png "h2g2 launch poster") -->
+-Employees are updated via text with trade info.
+
+-Tech used includes: Nodemailer and Sockets
+**You can visit the site here:** [Shiftradr],[Github]
+
+
+
+![](./ST1.png "Landing Page")
+![](./ST2.png "Feed")
+![](./ST3.png "Filter")
+![](./ST4.png "Chat")
+![](./ST5.png "Chat2")
+
+<!-- reference links --->
+[Shiftradr]: <https://shiftradr.com/#/>
+[Github]: <https://github.com/shiftradr>
