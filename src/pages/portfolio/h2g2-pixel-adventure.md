@@ -2,17 +2,11 @@
 title: "Shiftradr"
 date: "2019-05-10"
 tags: ["Reactjs", "React Hooks", "Nodejs", "Javascript", "HTML", "CSS", "Nodemailer", "Sockets"]
-image: './images/h2g2.jpg'
+image: './Logo.png'
 ---
 
-[Shiftradr]Full CRUD web application that allows employees to post and trade liability of work shifts in a streamlined fashion.
-
--Posts are displayed in a social media-like manner.
-
--Employees are updated via text with trade info.
-
--Tech used includes: Nodemailer and Sockets
-**You can visit the site here:** [Shiftradr],[Github]
+[Shiftradr] is a full CRUD web application that allows employees to post and trade liability of work shifts in a streamlined fashion. Along with trading of shifts, users can message each other to speak about shift and trade details, with real-time updates.
+ **You can visit the site here:** [Shiftradr],[Github]
 
 
 

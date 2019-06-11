@@ -2,10 +2,10 @@
 title: "Form Factor"
 date: "2019-05-01"
 tags: ["Reactjs", "Redux", "Nodejs", "Javascript", "HTML", "CSS", "chartjs"]
-image: './images/Macronutrients-Micronutrients.jpg'
+image: './Logo1.png'
 ---
 
-[FormFactor] is a react web app that utilizes redux to track your achievements relating to macronutrients, micronutrients, and workout details to provide a chart showing both in tandem with each other over the span of a week. Data displays are done using Chartjs. **You can visit the site here:** [FormFactor],[GitHub]
+[FormFactor] is a react web app that utilizes redux to track your achievements relating to macronutrients, micronutrients, and workout details to provide a chart showing both in tandem with each other over the span of a week. **You can visit the site here:** [FormFactor],[GitHub]
 
 
 ![](./FF1.png "Landing Page")
