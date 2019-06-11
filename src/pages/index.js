@@ -242,7 +242,7 @@ export default props => {
       <Title small>Portfolio</Title>
       <a id="portfolio">Portfolio</a>
       <Portfolio items={props.data.allMarkdownRemark.edges} />
-      <a id="experience">Experience</a>
+      {/* <a id="experience">Experience</a> */}
       {/* <Section center dark>
         <h4>Experience</h4>
         <span>Where I've worked.</span>
