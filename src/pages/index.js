@@ -242,15 +242,15 @@ export default props => {
       <a id="portfolio">Portfolio</a>
       <Portfolio items={props.data.allMarkdownRemark.edges} />
       {/* <a id="experience">Experience</a> */}
-      {/* <Section center dark>
+      <Section center dark>
         <h4>Experience</h4>
         <span>Where I've worked.</span>
         <Item>
           <span>FEB 2019 - CURRENT</span>
-          <h6>Devmountain</h6>
-          <p>Web Developer</p>
+          <h6>PK Technology</h6>
+          <p>Associate Software Engineer</p>
         </Item>
-        <Item>
+        {/* <Item>
           <span>JUNE 2016 - APRIL 2018</span>
           <h6>SAP IRELAND</h6>
           <p>Full Stack Developer</p>
@@ -264,8 +264,8 @@ export default props => {
           <span>JAN 2014 - JULY 2014</span>
           <h6>ST DECLAN'S COLLEGE</h6>
           <p>Full Stack Developer</p>
-        </Item>
-      </Section> */}
+        </Item> */}
+      </Section>
       <a id="tech">Tech</a>
       <Section center>
         <h4>Tech</h4>
