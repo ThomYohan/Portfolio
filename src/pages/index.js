@@ -281,7 +281,7 @@ export default props => {
         <h4>EDUCATION</h4>
         <span>Education I've recieved.</span>
         <Item>
-          <span>2019-Current</span>
+          <span>FEB 2019 - MAY 2019</span>
           <h6>Web Development Curriculum</h6>
           <p>Devmountain</p>
         </Item>
@@ -307,7 +307,7 @@ export default props => {
         </Item> */}
         <Item>
           <span>2019</span>
-          <h6>Pending Badge</h6>
+          <h6>Certificate</h6>
           <p>Devmountain</p>
         </Item>
       </Section>
