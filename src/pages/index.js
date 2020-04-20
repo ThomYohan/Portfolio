@@ -271,7 +271,7 @@ export default props => {
         <h4>Tech</h4>
         <span>Technologies I enjoy working with.</span>
         <Showcase
-          images={
+          logos={
             props.data.allImageSharp ? props.data.allImageSharp.edges : []
           }
         />
