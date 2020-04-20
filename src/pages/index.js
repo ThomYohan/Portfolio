@@ -246,16 +246,16 @@ export default props => {
         <h4>Experience</h4>
         <span>Where I've worked.</span>
         <Item>
-          <span>FEB 2019 - CURRENT</span>
-          <h6>PK Technology</h6>
+          <span>NOV 2019 - JAN 2020</span>
+          <h6>PK Solutions</h6>
           <p>Associate Software Engineer</p>
         </Item>
-        {/* <Item>
-          <span>JUNE 2016 - APRIL 2018</span>
-          <h6>SAP IRELAND</h6>
-          <p>Full Stack Developer</p>
-        </Item>
         <Item>
+          <span>APR 2020 - CURRENT</span>
+          <h6>Resolve Dev</h6>
+          <p>Front End Engineer</p>
+        </Item>
+        {/* <Item>
           <span>FEB 2015 - AUG 2015</span>
           <h6>SAP IRELAND</h6>
           <p>Support Engineer</p>
