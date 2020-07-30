@@ -223,8 +223,11 @@ export default props => {
               lines and weakness for Swiss type fool you; My work has been
               pretty diverse and enjoyable. For more information about me follow
               one of my social media links above or at the bottom of the page. */}
-              Currently a Web developer focusing on the front end, I've become well versed in building full crud web application. Other hobbies include traveling, soccer, and spending time with
-              family. Goals include broadening my experience along with visiting every continent(only 3 left).
+              Currently a Web developer focusing on the front end, I've become
+              well versed in building full crud web application. Other hobbies
+              include traveling, soccer, and spending time with family. Goals
+              include broadening my experience along with visiting every
+              continent(only 3 left).
             </p>
           </Box>
           <Box px={2} width={180}>
@@ -251,9 +254,9 @@ export default props => {
           <p>Associate Software Engineer</p>
         </Item>
         <Item>
-          <span>APR 2020 - CURRENT</span>
-          <h6>Resolve Dev</h6>
-          <p>Front End Engineer</p>
+          <span>JUN 2020 - CURRENT</span>
+          <h6>RentChirp</h6>
+          <p>Full Stack Developer</p>
         </Item>
         {/* <Item>
           <span>FEB 2015 - AUG 2015</span>
@@ -271,9 +274,7 @@ export default props => {
         <h4>Tech</h4>
         <span>Technologies I enjoy working with.</span>
         <Showcase
-          logos={
-            props.data.allImageSharp ? props.data.allImageSharp.edges : []
-          }
+          logos={props.data.allImageSharp ? props.data.allImageSharp.edges : []}
         />
       </Section>
       <a id="education">Education</a>
