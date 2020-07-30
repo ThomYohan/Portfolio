@@ -227,7 +227,7 @@ export default props => {
               well versed in building full crud web application. Other hobbies
               include traveling, soccer, and spending time with family. Goals
               include broadening my experience along with visiting every
-              continent(only 3 left).
+              continent(4/7 so far) and learning more languages(2/5 so far).
             </p>
           </Box>
           <Box px={2} width={180}>
