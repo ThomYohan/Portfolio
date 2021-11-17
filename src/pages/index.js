@@ -377,7 +377,7 @@ export const pageQuery = graphql`
           id
           childImageSharp {
             sizes(maxWidth: 300, grayscale: true) {
-              ...GatsbyImageSharpSizes_tracedSVG
+              ...GatsbyImageSharpSizes
             }
           }
         }
@@ -388,7 +388,7 @@ export const pageQuery = graphql`
         node {
           childImageSharp {
             sizes(maxWidth: 200, grayscale: true) {
-              ...GatsbyImageSharpSizes_tracedSVG
+              ...GatsbyImageSharpSizes
             }
           }
         }
