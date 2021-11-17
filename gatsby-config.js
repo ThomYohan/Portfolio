@@ -4,13 +4,9 @@ module.exports = {
   },
   plugins: [
     {
-     resolve: `gatsby-plugin-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
-       fonts: [
-         `pacifico:400`,
-         `raleway:100,400,600,700`,
-         'lato: 300,400,500'
-        ]
+        fonts: [`pacifico:400`, `raleway:100,400,600,700`, "lato: 300,400,500"]
       }
     },
     {
@@ -68,20 +64,20 @@ module.exports = {
         trackingId: `UA-47904062-1`
       }
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: "Thomas Yohannes Portfolio",
-        short_name: "Thomas Yohannes",
-        start_url: "/",
-        background_color: "#292929",
-        theme_color: "#405375",
-        display: "minimal-ui"
-      }
-    },
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: "Thomas Yohannes Portfolio",
+    //     short_name: "Thomas Yohannes",
+    //     start_url: "/",
+    //     background_color: "#292929",
+    //     theme_color: "#405375",
+    //     display: "minimal-ui"
+    //   }
+    // },
     {
       resolve: "gatsby-plugin-sentry",
-        options: {
+      options: {
         dsn: "https://23d8e0b792d442d29d0b4344a79ef87d@sentry.io/170806"
       }
     }
